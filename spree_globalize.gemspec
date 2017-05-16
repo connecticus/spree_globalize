@@ -25,7 +25,7 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency 'friendly_id-globalize'
   s.add_runtime_dependency 'globalize', '~> 5.0.1'
-  s.add_runtime_dependency 'spree_i18n', '~> 3.1.0.beta'
+  s.add_runtime_dependency 'spree_i18n', '~> 3'
   s.add_runtime_dependency 'flag-icons-rails'
 
   s.add_development_dependency 'byebug'
