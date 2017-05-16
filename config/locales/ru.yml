@@ -1,0 +1,6 @@
+ru:
+  spree:
+    globalize:
+      locales_displayed_on_translation_forms: Переводы отображаемые в формах
+      no_translations_for_criteria: Перевод не найден
+      store_translations: Переводы
